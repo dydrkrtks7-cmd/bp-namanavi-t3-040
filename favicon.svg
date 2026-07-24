@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect x="14" y="14" width="8" height="36" rx="4" fill="hsl(303, 80%, 60%)" opacity="0.4"/><rect x="28" y="10" width="8" height="44" rx="4" fill="hsl(303, 80%, 60%)"/><rect x="42" y="18" width="8" height="28" rx="4" fill="hsl(303, 80%, 60%)" opacity="0.7"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
+  <title>제천 의림지 호수</title>
+  <rect width="64" height="64" rx="16" fill="hsl(124 48% 30%)"/>
+  <path d="M64 0v26L38 0Z" fill="hsl(207 68% 66%)" opacity="0.16"/>
+  <g transform="rotate(270 32 32)"><path d="M32 12 52 32 32 52 12 32Z" fill="none" stroke="hsl(124 24% 96%)" stroke-width="6" stroke-linejoin="round"/><path d="M32 24 40 32 32 40 24 32Z" fill="hsl(207 68% 66%)"/></g>
+</svg>
